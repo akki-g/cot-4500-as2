@@ -1,5 +1,7 @@
 from src.main.assignment_2 import *
 import pandas as pd
+import numpy as np
+np.set_printoptions(suppress=False, precision=8, linewidth=100)
 
 x = [3.6, 3.8, 3.9]
 y = [1.675, 1.436, 1.318]
