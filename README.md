@@ -4,7 +4,7 @@ COT-4500 PA2
 
 ## How to run 
 
-clone the repository and run the following command in the terminal
+clone the repository
 
 install the dependencies
 
