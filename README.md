@@ -7,6 +7,7 @@ COT-4500 PA2
 clone the repository
 
 install the dependencies in requirements.txt using
+
 pip install -r requirements.txt
 
 run using the following command
