@@ -1,5 +1,4 @@
 from src.main.assignment_2 import *
-import pandas as pd
 import numpy as np
 np.set_printoptions(suppress=False, precision=8, linewidth=100)
 
