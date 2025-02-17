@@ -101,5 +101,4 @@ def cubic_spline(x, y):
 
     x = np.linalg.solve(A, b)   
 
-    x = np.array(list(x))
     return A, b, x
